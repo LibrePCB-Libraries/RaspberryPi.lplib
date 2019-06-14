@@ -1,0 +1,10 @@
+(librepcb_library 9e175007-1f47-4562-94a3-a0f8310f3379
+ (name "RaspberryPi")
+ (description "Raspberry Pi models")
+ (keywords "raspberry, pi")
+ (author "Marc Wittwer")
+ (version "0.1")
+ (created 2019-06-13T08:07:45Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/RaspberryPi.lplib")
+)
