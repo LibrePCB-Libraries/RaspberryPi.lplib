@@ -1,10 +1,10 @@
-(librepcb_device dc9157b2-b5be-4a8b-8eb7-fb35b6524696
- (name "Raspberry Pi 3, GPIO 40-Pin")
- (description "Raspberry Pi 3, GPIO 40-Pin")
+(librepcb_device 8366b3c9-314b-4d97-ad8b-554c2bdd722a
+ (name "Raspberry Pi 4, GPIO 40-Pin")
+ (description "Raspberry Pi 4, GPIO 40-Pin")
  (keywords "raspberry, pi")
- (author "Marc Wittwer")
+ (author "Danilo Bargen")
  (version "0.1")
- (created 2019-06-14T08:03:18Z)
+ (created 2019-06-26T14:33:20Z)
  (deprecated false)
  (category e96d0dda-3100-4e68-8c33-e2a5bc80428b)
  (component 6c8d2de2-3ae5-4d27-8511-5c621ebc3dee)
