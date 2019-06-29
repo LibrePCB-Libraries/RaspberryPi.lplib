@@ -1,9 +1,9 @@
 (librepcb_component 6c8d2de2-3ae5-4d27-8511-5c621ebc3dee
- (name "Raspberry Pi Model 2/3/4")
- (description "Raspberry Pi Model 2/3/4")
- (keywords "raspberry, pi")
+ (name "Raspberry Pi GPIO 40-Pin")
+ (description "Raspberry Pi 40-pin GPIO connector compatible with all models except 1A/1B which have only 26 pins.")
+ (keywords "raspberry,pi,rpi")
  (author "Marc Wittwer")
- (version "0.1")
+ (version "0.2")
  (created 2019-06-11T11:45:50Z)
  (deprecated false)
  (category e96d0dda-3100-4e68-8c33-e2a5bc80428b)
