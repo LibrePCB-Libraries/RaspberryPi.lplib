@@ -1,6 +1,6 @@
 # RaspberryPi
  
-RaspberryPi boards. Inofficial.
+RaspberryPi boards. Unofficial.
 
 ## Description
 
