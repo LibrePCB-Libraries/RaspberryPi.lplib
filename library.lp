@@ -3,7 +3,7 @@
  (description "Raspberry Pi models")
  (keywords "raspberry, pi")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-06-13T08:07:45Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/RaspberryPi.lplib")
