@@ -1,5 +1,5 @@
 (librepcb_library 9e175007-1f47-4562-94a3-a0f8310f3379
- (name "RaspberryPi")
+ (name "Raspberry Pi")
  (description "Raspberry Pi models")
  (keywords "raspberry, pi")
  (author "LibrePCB")
