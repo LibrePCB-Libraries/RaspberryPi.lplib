@@ -3,7 +3,7 @@
  (description "Raspberry Pi 40-Pin GPIO header")
  (keywords "raspberry, pi")
  (author "Marc Wittwer")
- (version "0.1")
+ (version "0.2")
  (created 2019-06-11T13:43:46Z)
  (deprecated false)
  (generated_by "")

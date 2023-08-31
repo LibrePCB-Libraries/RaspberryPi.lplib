@@ -3,7 +3,7 @@
  (description "Raspberry Pi 3, GPIO 40-Pin")
  (keywords "raspberry, pi")
  (author "Marc Wittwer")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-06-14T08:03:18Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Raspberry Pi 4, GPIO 40-Pin")
  (keywords "raspberry, pi")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-06-26T14:33:20Z)
  (deprecated false)
  (generated_by "")
