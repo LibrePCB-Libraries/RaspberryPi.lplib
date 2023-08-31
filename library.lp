@@ -8,5 +8,5 @@
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/RaspberryPi.lplib")
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
- (manufacturer "")
+ (manufacturer "Raspberry Pi")
 )
