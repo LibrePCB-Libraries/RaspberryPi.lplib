@@ -1,0 +1,10 @@
+(librepcb_package_category 3738a28e-611f-459a-9d04-5be22bfcd0e8
+ (name "Raspberry Pi")
+ (description "Custom packages by Raspberry Pi.")
+ (keywords "raspberry,pi")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-09-04T10:36:51Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
