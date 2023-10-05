@@ -10,7 +10,7 @@
  (category e96d0dda-3100-4e68-8c33-e2a5bc80428b)
  (schematic_only false)
  (default_value "{{MPN or DEVICE}}")
- (prefix "PICO")
+ (prefix "U")
  (signal 1d15c476-0c30-42eb-af60-b8f9470c0340 (name "GP22") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
